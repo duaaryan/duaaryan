@@ -12,11 +12,12 @@
 - Digital Electronics & ECE fundamentals
 
 ## 📂 Projects
-- 🗂️ **Student Management System** — console app in C with file handling
+- 🗂️ **Student Management System** — console app in C with file handling, structs and arrays
 
 ## 📫 Contact
 - Email: duaaryan14@gmail.com
-
+- GitHub: github.com/duaaryan
+- 
 <!--
 **duaaryan/duaaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
