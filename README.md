@@ -1,5 +1,11 @@
 <div align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+MSIT+Delhi;Learning+C+%2B+C%2B%2B+%2B+DSA;Building+projects+one+line+at+a+time...;Top+8+Badminton+Player+%40+MSIT+%F0%9F%8F%B8)
+
+# 👾 ARYAN DUA
+
+### `> B.Tech ECE @ MSIT Delhi | Developer in Progress`
+
+![](https://img.shields.io/badge/Status-Learning%20%26%20Building-00FF41?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/Open%20To-Internships-00FF41?style=for-the-badge&labelColor=000000)
 
 </div>
 
