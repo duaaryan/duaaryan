@@ -1,26 +1,55 @@
-# Hey, I'm Aryan Dua! ⚡
+<h1 align="center">Hi, I'm Aryan Dua 👋</h1>
+<h3 align="center">B.Tech ECE Student | C & C++ Developer | DSA Learner</h3>
 
-## 🙋 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=duaaryan&label=Profile%20views&color=0e75b6&style=flat" alt="duaaryan" />
+</p>
+
+---
+
+### 🙋 About Me
+
 - 🎓 B.Tech ECE @ Maharaja Surajmal Institute of Technology, Delhi
 - 💻 Proficient in C | Learning C++ and DSA
 - 🏸 Ranked Top 8 in Badminton at MSIT
 - 🏀 Junior NBA School Program alumni
 - 🔨 Currently building: projects in C & C++ to back up my resume
 - 📍 New Delhi, India
+- 📧 duaaryan14@gmail.com
 
-## 🛠️ Tech Stack
+---
+
+### 🛠️ Tech Stack
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## 📂 Projects
+---
+
+### 📂 Projects
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [Student Management System](https://github.com/duaaryan/Student-Management-System) | C, C++ | Console-based app to add, store & view student records with auto grade calculation and file persistence |
-| [CPP Practice](https://github.com/duaaryan/CPP_Practice) | C, C++ | Fundamentals — arrays, pointers, OOP, strings, vectors, STL, patterns |
+| [🗂️ Student Management System](https://github.com/duaaryan/Student-Management-System) | C, C++ | Console-based app to add, store & view student records with auto grade calculation and file persistence |
+| [💻 CPP Practice](https://github.com/duaaryan/CPP_Practice) | C, C++ | Fundamentals — arrays, pointers, OOP, strings, vectors, STL, patterns |
 
-## 📊 GitHub Stats
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duaaryan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duaaryan&layout=compact&theme=tokyonight)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duaaryan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaaryan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duaaryan&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+<p align="center">⭐ Star my repos if you find them useful!</p>
