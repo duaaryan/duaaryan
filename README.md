@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Aryan Dua 👋</h1>
-<h3 align="center">B.Tech ECE Student | C & C++ Developer | DSA Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+I'm+Aryan+Dua+👋;B.Tech+ECE+Student;C+%26+C%2B%2B+Developer;DSA+Learner;Always+building+something!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=duaaryan&label=Profile%20views&color=0e75b6&style=flat" alt="duaaryan" />
@@ -40,11 +41,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duaaryan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaaryan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duaaryan&theme=tokyonight&hide_border=true" width="60%"/>
