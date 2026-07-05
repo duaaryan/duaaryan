@@ -11,7 +11,7 @@
 ### 🙋 About Me
 
 - 🎓 B.Tech ECE @ Maharaja Surajmal Institute of Technology, Delhi
-- 💻 Proficient in C | Learning C++ and DSA
+- 💻 Proficient in C & C++ | Learning DSA
 - 🏸 Ranked Top 8 in Badminton at MSIT
 - 🏀 Junior NBA School Program alumni
 - 🔨 Currently building: projects in C & C++ to back up my resume
