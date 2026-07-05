@@ -36,6 +36,7 @@
 | Project | Tech | Description |
 |---------|------|-------------|
 | [🗂️ Student Management System](https://github.com/duaaryan/Student-Management-System) | C, C++ | Console-based app to add, store & view student records with auto grade calculation and file persistence |
+| [⚡ ECE Circuit Calculator](https://github.com/duaaryan/ECE-Circuit-Calculator) | C++ | Console-based circuit calculator for ECE lab — Ohm's Law, RC circuits, Power, LED resistor calculations |
 | [💻 CPP Practice](https://github.com/duaaryan/CPP_Practice) | C, C++ | Fundamentals — arrays, pointers, OOP, strings, vectors, STL, patterns |
 
 ---
