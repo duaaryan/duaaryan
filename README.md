@@ -44,9 +44,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  ### 📊 GitHub Stats
+  ## 📊 GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duaaryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duaaryan&show_icons=true&theme=tokyonight&hide_border=true)
 </p>
 
 ---
