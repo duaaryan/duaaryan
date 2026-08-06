@@ -31,13 +31,13 @@
 
 ---
 
-### 📂 Projects
+### 🤝 Open Source Contributions
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [🗂️ Student Management System](https://github.com/duaaryan/Student-Management-System) | C, C++ | Console-based app to add, store & view student records with auto grade calculation and file persistence |
-| [⚡ ECE Circuit Calculator](https://github.com/duaaryan/ECE-Circuit-Calculator) | C++ | Console-based circuit calculator for ECE lab — Ohm's Law, RC circuits, Power, LED resistor calculations |
-| [💻 CPP Practice](https://github.com/duaaryan/CPP_Practice) | C, C++ | Fundamentals — arrays, pointers, OOP, strings, vectors, STL, patterns |
+| [🩸 RaktSetu](https://github.com/EJ228/Raktsetu) | JavaScript, EJS, Socket.io | Real-time blood donor coordination platform connecting donors, patients & blood banks across India |
+| [📈 IPO Prediction Model](https://github.com/EJ228/ipo_prediction_model) | Python, ML, NLP | End-to-end pipeline predicting Indian IPO listing performance using sentiment analysis & market signals |
+| [🔗 Grounding NLP API](https://github.com/EJ228/grounding-nlp-api) | Python, T5/FLAN-T5 | NLP system converting natural language commands into executable API calls with custom inference pipeline |
 
 ---
 
