@@ -14,7 +14,6 @@
 - 💻 Currently building: DSA solutions & contributing to open source projects
 - 🏸 Ranked Top 8 in Badminton at MSIT
 - 🏀 Junior NBA School Program alumni
-- 🔨 Currently building: projects in C & C++ to back up my resume
 - 📍 New Delhi, India
 - 📧 duaaryan14@gmail.com
 
